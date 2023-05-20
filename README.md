@@ -18,7 +18,7 @@ Below are some of the technologies I use:
 
 ### Frameworks
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) [![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&logo=tailwind-css)](#) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) [![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&logo=tailwind-css)](#) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ### Databases
 
